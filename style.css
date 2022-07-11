@@ -1,0 +1,211 @@
+body{
+    background-color:#005E66;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#FFFFFF;
+    display: block;
+    justify-content: center;
+    text-align: center;
+
+}
+/*login*/
+.form {
+    position: relative;
+    z-index: 1;
+    background:#149aa6;
+    border-radius: 10px;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    
+    
+  }
+ 
+  .form input {
+    font-family: Arial, Helvetica, sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    border-radius: 10px;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+  .form button {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #007C4A;
+    width: 100%;
+    border: 0;
+    border-radius: 10px;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    cursor: pointer;
+  }
+
+  /*seleccion*/
+.container-seleccion{
+    width: 80%;
+    height: auto;
+    color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    display: block;
+    justify-content:space-between;
+    background-color:#eee3d5;
+    align-items: center;
+  
+}
+ 
+  .-col{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    outline: 0;
+    background: #f27951;
+    width: 40%;
+    height: 80px;
+    border: 0;
+    border-radius: 10px;
+    margin:auto;
+    padding: 15px;
+    box-sizing: border-box;
+    box-shadow: 3px 0px 3px 1px #888;
+    
+    
+  }
+  
+    .user-placeholder {
+      padding: 0.25em 0.6em;
+      border-radius: 0.3rem;
+      border: 1px solid #ffffff;
+      text-align: center;
+      width: 30%;
+      
+    }
+  
+
+  .container-seleccion button {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #007C4A;
+    border-radius: 10px;
+    width: 50%;
+    height: 80px;
+    border: 0;
+    margin: 10px 10px 15px;
+    margin-left:25% ;
+    padding: 20px;
+    color: #FFFFFF;
+    font-size: 14px;
+    cursor: pointer;
+    display: block;
+  }
+
+  /*tickets*/
+
+.-form{
+    
+    background:white;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    max-width: 100%;
+    margin: 25px 25px 25px 25px;
+    padding: 10px;
+    box-shadow: 3px 0px 3px 3px #888;
+ }
+   .col-12{
+    
+    margin-top: 3px;
+    margin-bottom: 20px;
+  }
+  .col {
+      
+      display: flex;
+      justify-content:center;
+      
+  }
+  .col-btn {
+      display: inline-block;
+      justify-content:space-between;
+      margin-left: 70px;
+      margin-right: 20px;
+      padding-bottom: 20px;
+  }
+  
+  .--form{
+   
+    background:#87e997;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    max-width: 100%;
+    margin: 25px 25px 25px 25px;
+    padding: 10px;
+    box-shadow: 3px 0px 3px 3px #888;
+ }
+   .col-12{
+    margin-top: 5px;
+    margin-bottom: 20px;
+  }
+  .col {
+      margin-left:10px;
+      margin-right: 10px;
+      padding-bottom: 20px;
+      display: inline-block;
+      justify-content:space-between;
+  }
+  .col-btn {
+      display: inline-block;
+      justify-content:space-between;
+      align-items: center;
+      margin-left: 70px;
+      padding-bottom: 20px;
+  }
+ 
+  .---form{
+   
+    background:#f39c9c;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    max-width: 100%;
+    margin: 25px 25px 25px 25px;
+    padding: 10px;
+    box-shadow: 3px 0px 3px 3px #888;
+ }
+   .col-12{
+    margin-top: 5px;
+    margin-bottom: 20px;
+  }
+  .col {
+      margin-left:10px;
+      margin-right: 10px;
+      padding-bottom: 20px;
+      display: inline-block;
+      justify-content:space-between;
+  }
+  .col-btn {
+      display: inline-block;
+      justify-content:space-between;
+      margin-left: 70px;
+      margin-right: 20px;
+      padding-bottom: 20px;
+  }  
+
+  
