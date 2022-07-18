@@ -3,11 +3,11 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     
 }
-
+/*titulo*/
 p{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color:#FFFFFF;
+    color:white;
     display: block;
     justify-content: center;
     text-align: center;
@@ -50,12 +50,12 @@ p{
     font-size: 14px;
     cursor: pointer;
   }
-
+/*---------------------------------------------------*/
   /*seleccion*/
 .container-seleccion{
     width: 80%;
     height: auto;
-    color: #FFFFFF;
+    color: black;
     margin-top: 10px;
     margin-left: 10%;
     margin-bottom: 20px;
@@ -71,20 +71,23 @@ p{
   .-col{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    display: flex;
-    justify-content: center;
-    outline: 0;
+    text-align: center;
+    color: white;
     background: #f27951;
     width: 40%;
     height: 80px;
     border: 0;
     border-radius: 10px;
     margin:auto;
-    padding: 15px;
+    padding-top: 20px;
     box-sizing: border-box;
     box-shadow: 3px 0px 3px 1px #888;
-    
-    
+  }
+  img{
+    display: inline;
+    justify-content: center;
+    margin-left: 0px;
+    margin-top: px;
   }
   
     .user-placeholder {
@@ -113,10 +116,12 @@ p{
     display: block;
   }
 
+  /*---------------------------------------------------*/
+
   /*tickets*/
 
 .-form{
-    
+ 
     background:white;
     display: block;
     justify-content: center;
@@ -128,26 +133,27 @@ p{
     box-shadow: 3px 0px 3px 3px #888;
  }
    .col-12{
-    
+    color: black;
     margin-top: 3px;
     margin-bottom: 20px;
   }
   .col {
-      
+      color: #FFFFFF;
       display: flex;
       justify-content:center;
       
   }
   .col-btn {
-      display: inline-block;
-      justify-content:space-between;
-      margin-left: 70px;
-      margin-right: 20px;
+     
+      display: inline;
+      justify-content:center;
+      margin-left: 40px;
+      margin-right: 40px;
       padding-bottom: 20px;
   }
   
   .--form{
-   
+  
     background:#87e997;
     display: block;
     justify-content: center;
@@ -163,6 +169,7 @@ p{
     margin-bottom: 20px;
   }
   .col {
+      color: black;
       margin-left:10px;
       margin-right: 10px;
       padding-bottom: 20px;
