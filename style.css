@@ -5,96 +5,18 @@ body{
 }
 
 /*login*/
-.container{
-    color: aliceblue;
-    background:#149aa6;
-    border-radius: 10px;
-    max-width: 360px;
-    margin-top: 50px;
-    margin-bottom: 20px;
-    padding: 45px;
-    text-align: center;
-}
-p{
-    color:white;
-    margin: auto;
-    justify-content: center;
-    text-align: center;
 
-}
-.col input{
-    background-color: white;
-    font-size: 14px;
-    color: black;
-    width: 100%;
-    height: 3em;
-    border:0;
-    margin: 10px 10px 10px 10px;
-    text-align:start;
-    padding-left: 10px;
-}
-.col button{
-    background-color: #007c4a;
-    color:white;
-    width: 100%;
-    height: 40px;
-    border: 0;
-    border-radius: 5px;
-    margin: 10px
-}
 
-.col-8{
-    background-color: beige;
-    color: black;
-    margin: auto;
-    box-sizing: auto;
-    text-align: center;
-    width: 360px;
-    height: 65px;
-    padding: 15px 15px 15px 15px;
-    border-radius: 5px;
-}
 /*-------------------*/
 /*Seleccion*/
 
-.flex-container{
-    background-color:beige;
-    max-width: 60%;
-    min-width: 40%;
-    height: 600px;
-    margin: auto;
-    padding: 10px;
-    display: block;
-    justify-content: center;
-}
-  .col-10{
-    background-color: #f27951;
-    width: 40%;
-    height: 4rem;
-    border-radius: 5px;
-    margin-left: 30%;
-    display:flex;
-    justify-content: space-around;
-    margin-bottom: 100px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 15px;
-}     
-   .col-12 button{
-    background-color: #007c4a;
-    width: 50%;
-    height: 5em;
-    display: block;
-    align-content: center;
-    text-align: center;
-    border: 0;
-    border-radius: 5px;
-    margin-left: 25%;
-    margin-bottom: 25px;
-    padding-top: 18px;
-    padding-left: 20px;
-    display: flex;
-    justify-content: space-around;
-}
+
+   
+
+    
+   
+ 
+    
+
 /*------------------*/
     
